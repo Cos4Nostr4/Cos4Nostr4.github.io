@@ -3,7 +3,9 @@ good
 
 <div style="background:blue">
 
-test
+[&larr;](https://www.google.com)
+[&uarr;](https://www.google.com)
+[&rarr;](https://www.google.com)
 </div>
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
