@@ -8,4 +8,8 @@ good
 [&rarr;](https://www.google.com)
 </div>
 
+<div style="width:500px">test</div>
+
+<div align="left"> left </div><div>normal</div>
+
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
